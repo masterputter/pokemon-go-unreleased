@@ -1,0 +1,359 @@
+{
+ "updated": "2026-11-16",
+ "total": 66,
+ "unreleased": [
+  {
+   "s": 489,
+   "n": "Phione",
+   "gen": 4
+  },
+  {
+   "s": 490,
+   "n": "Manaphy",
+   "gen": 4
+  },
+  {
+   "s": 493,
+   "n": "Arceus",
+   "gen": 4
+  },
+  {
+   "s": 746,
+   "n": "Wishiwashi",
+   "gen": 7
+  },
+  {
+   "s": 771,
+   "n": "Pyukumuku",
+   "gen": 7
+  },
+  {
+   "s": 772,
+   "n": "Type: Null",
+   "gen": 7
+  },
+  {
+   "s": 773,
+   "n": "Silvally",
+   "gen": 7
+  },
+  {
+   "s": 801,
+   "n": "Magearna",
+   "gen": 7
+  },
+  {
+   "s": 833,
+   "n": "Chewtle",
+   "gen": 8
+  },
+  {
+   "s": 834,
+   "n": "Drednaw",
+   "gen": 8
+  },
+  {
+   "s": 868,
+   "n": "Milcery",
+   "gen": 8
+  },
+  {
+   "s": 869,
+   "n": "Alcremie",
+   "gen": 8
+  },
+  {
+   "s": 871,
+   "n": "Pincurchin",
+   "gen": 8
+  },
+  {
+   "s": 875,
+   "n": "Eiscue",
+   "gen": 8
+  },
+  {
+   "s": 878,
+   "n": "Cufant",
+   "gen": 8
+  },
+  {
+   "s": 879,
+   "n": "Copperajah",
+   "gen": 8
+  },
+  {
+   "s": 880,
+   "n": "Dracozolt",
+   "gen": 8
+  },
+  {
+   "s": 881,
+   "n": "Arctozolt",
+   "gen": 8
+  },
+  {
+   "s": 882,
+   "n": "Dracovish",
+   "gen": 8
+  },
+  {
+   "s": 883,
+   "n": "Arctovish",
+   "gen": 8
+  },
+  {
+   "s": 896,
+   "n": "Glastrier",
+   "gen": 8
+  },
+  {
+   "s": 897,
+   "n": "Spectrier",
+   "gen": 8
+  },
+  {
+   "s": 898,
+   "n": "Calyrex",
+   "gen": 8
+  },
+  {
+   "s": 902,
+   "n": "Basculegion",
+   "gen": 8
+  },
+  {
+   "s": 951,
+   "n": "Capsakid",
+   "gen": 9
+  },
+  {
+   "s": 952,
+   "n": "Scovillain",
+   "gen": 9
+  },
+  {
+   "s": 953,
+   "n": "Rellor",
+   "gen": 9
+  },
+  {
+   "s": 954,
+   "n": "Rabsca",
+   "gen": 9
+  },
+  {
+   "s": 963,
+   "n": "Finizen",
+   "gen": 9
+  },
+  {
+   "s": 964,
+   "n": "Palafin",
+   "gen": 9
+  },
+  {
+   "s": 967,
+   "n": "Cyclizar",
+   "gen": 9
+  },
+  {
+   "s": 976,
+   "n": "Veluza",
+   "gen": 9
+  },
+  {
+   "s": 981,
+   "n": "Farigiraf",
+   "gen": 9
+  },
+  {
+   "s": 984,
+   "n": "Great Tusk",
+   "gen": 9,
+   "paradox": true
+  },
+  {
+   "s": 985,
+   "n": "Scream Tail",
+   "gen": 9,
+   "paradox": true
+  },
+  {
+   "s": 986,
+   "n": "Brute Bonnet",
+   "gen": 9,
+   "paradox": true
+  },
+  {
+   "s": 987,
+   "n": "Flutter Mane",
+   "gen": 9,
+   "paradox": true
+  },
+  {
+   "s": 988,
+   "n": "Slither Wing",
+   "gen": 9,
+   "paradox": true
+  },
+  {
+   "s": 989,
+   "n": "Sandy Shocks",
+   "gen": 9,
+   "paradox": true
+  },
+  {
+   "s": 990,
+   "n": "Iron Treads",
+   "gen": 9,
+   "paradox": true
+  },
+  {
+   "s": 991,
+   "n": "Iron Bundle",
+   "gen": 9,
+   "paradox": true
+  },
+  {
+   "s": 992,
+   "n": "Iron Hands",
+   "gen": 9,
+   "paradox": true
+  },
+  {
+   "s": 993,
+   "n": "Iron Jugulis",
+   "gen": 9,
+   "paradox": true
+  },
+  {
+   "s": 994,
+   "n": "Iron Moth",
+   "gen": 9,
+   "paradox": true
+  },
+  {
+   "s": 995,
+   "n": "Iron Thorns",
+   "gen": 9,
+   "paradox": true
+  },
+  {
+   "s": 1001,
+   "n": "Wo-Chien",
+   "gen": 9
+  },
+  {
+   "s": 1002,
+   "n": "Chien-Pao",
+   "gen": 9
+  },
+  {
+   "s": 1003,
+   "n": "Ting-Lu",
+   "gen": 9
+  },
+  {
+   "s": 1004,
+   "n": "Chi-Yu",
+   "gen": 9
+  },
+  {
+   "s": 1005,
+   "n": "Roaring Moon",
+   "gen": 9,
+   "paradox": true
+  },
+  {
+   "s": 1006,
+   "n": "Iron Valiant",
+   "gen": 9,
+   "paradox": true
+  },
+  {
+   "s": 1007,
+   "n": "Koraidon",
+   "gen": 9,
+   "paradox": true
+  },
+  {
+   "s": 1008,
+   "n": "Miraidon",
+   "gen": 9,
+   "paradox": true
+  },
+  {
+   "s": 1009,
+   "n": "Walking Wake",
+   "gen": 9,
+   "paradox": true
+  },
+  {
+   "s": 1010,
+   "n": "Iron Leaves",
+   "gen": 9,
+   "paradox": true
+  },
+  {
+   "s": 1014,
+   "n": "Okidogi",
+   "gen": 9
+  },
+  {
+   "s": 1015,
+   "n": "Munkidori",
+   "gen": 9
+  },
+  {
+   "s": 1016,
+   "n": "Fezandipiti",
+   "gen": 9
+  },
+  {
+   "s": 1017,
+   "n": "Ogerpon",
+   "gen": 9
+  },
+  {
+   "s": 1018,
+   "n": "Archaludon",
+   "gen": 9
+  },
+  {
+   "s": 1020,
+   "n": "Gouging Fire",
+   "gen": 9,
+   "paradox": true
+  },
+  {
+   "s": 1021,
+   "n": "Raging Bolt",
+   "gen": 9,
+   "paradox": true
+  },
+  {
+   "s": 1022,
+   "n": "Iron Boulder",
+   "gen": 9,
+   "paradox": true
+  },
+  {
+   "s": 1023,
+   "n": "Iron Crown",
+   "gen": 9,
+   "paradox": true
+  },
+  {
+   "s": 1024,
+   "n": "Terapagos",
+   "gen": 9
+  },
+  {
+   "s": 1025,
+   "n": "Pecharunt",
+   "gen": 9
+  }
+ ],
+ "recently_released": []
+}
