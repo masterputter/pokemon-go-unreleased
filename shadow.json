@@ -1,7 +1,7 @@
 {
- "source": "PokeMiners game_masters latest/latest.json",
+ "source": "PokeMiners game_masters latest/latest.json (baseline 2026-08-29) + official/news + Google obtainable list",
  "updated": "2026-11-17",
- "total": 471,
+ "total": 475,
  "dex": [
   1,
   2,
@@ -103,7 +103,6 @@
   111,
   112,
   114,
-  115,
   116,
   117,
   120,
@@ -435,6 +434,8 @@
   661,
   662,
   663,
+  674,
+  675,
   686,
   687,
   694,
@@ -456,12 +457,15 @@
   751,
   752,
   753,
+  754,
   755,
   756,
   759,
   760,
   767,
+  768,
   769,
+  770,
   821,
   822,
   823,
@@ -475,7 +479,7 @@
   904,
   979
  ],
- "note": "GAME_MASTER baseline is 2026-08-29 (PokeMiners latest last updated then); 4 species added from official Harvest Festival Taken Over announcement (Oct 2026). List may still miss other Shadow releases after 2026-08-29 \u2014 verify against news sources.",
+ "note": "Definition: obtainable as Shadow in any way (caught directly OR evolved from a Shadow). Kangaskhan removed (Giovanni-only, not catchable). Pancham/Pangoro/Lurantis/Golisopod/Palossand added (obtainable; Pancham catchable from Sierra since 2 Oct 2026, the rest via evolving a Shadow base form).",
  "added_from_news": [
   {
    "dex": 644,
@@ -500,6 +504,44 @@
    "name": "Sandygast",
    "date": "2026-10-02",
    "source": "pokemongo.com Harvest Festival Taken Over"
+  },
+  {
+   "dex": 674,
+   "name": "Pancham",
+   "date": "2026-11-17",
+   "source": "Google obtainable list + verified (Pancham: Sierra, Oct 2026)"
+  },
+  {
+   "dex": 675,
+   "name": "Pangoro",
+   "date": "2026-11-17",
+   "source": "Google obtainable list + verified (Pancham: Sierra, Oct 2026)"
+  },
+  {
+   "dex": 754,
+   "name": "Lurantis",
+   "date": "2026-11-17",
+   "source": "Google obtainable list + verified (Pancham: Sierra, Oct 2026)"
+  },
+  {
+   "dex": 768,
+   "name": "Golisopod",
+   "date": "2026-11-17",
+   "source": "Google obtainable list + verified (Pancham: Sierra, Oct 2026)"
+  },
+  {
+   "dex": 770,
+   "name": "Palossand",
+   "date": "2026-11-17",
+   "source": "Google obtainable list + verified (Pancham: Sierra, Oct 2026)"
+  }
+ ],
+ "removed": [
+  {
+   "dex": 115,
+   "name": "Kangaskhan",
+   "date": "2026-11-17",
+   "reason": "Giovanni-only, not obtainable by players"
   }
  ]
 }
